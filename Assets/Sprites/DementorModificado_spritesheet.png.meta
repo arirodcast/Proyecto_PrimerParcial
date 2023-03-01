@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: f36a5e9668da0444a86c78d915fe682f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8933abca8cd640b5caf4904e30ae5
+      internalID: -1893424941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb92305c318881409a1423884953277
+      internalID: 306204641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0cadc12cbdd884ea5f79fe8c069172
+      internalID: -1337071236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 213
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd739cb56964eba4f8d4ff08bb073566
+      internalID: 174462093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45240d77e69264abdd713fef253586
+      internalID: -123351446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 214
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812596492eec8dd46a2b56fef8ca07f2
+      internalID: -1535112021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a6202e75457f478b56c60d0dfe63f
+      internalID: 1051636187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 189
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe63303f03cf4408fe3344320d84fd
+      internalID: 1547572652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 189
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26866536f0f5184f94ded381f9104aa
+      internalID: 592292334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 189
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47301ec7f90be049b4a3c1e4a2e7148
+      internalID: 1050750281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 189
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686922f5d3a565b48937e705acaf6fe1
+      internalID: -293564343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 189
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be7b158bea6e445b6f322f2f39c178
+      internalID: -1074038215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375d35347b7f4044b6c5a4b43253089
+      internalID: -796661068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c26968a0c0bc4e97b52a580f5b0c8
+      internalID: -1254846450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 139
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959856b171420b344a0a00d566e46c98
+      internalID: 690652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 141
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef416be3bfb3ef448ef2440537205ea
+      internalID: 162925808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc0707ccb08854e8580d5092f51ffe
+      internalID: 1881766162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ada4e768dc8a24a876ed2b6bef9f30
+      internalID: -205209353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 133
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e1742330e50245bef41fe304033b7
+      internalID: 884292449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c007778946651d4da708de64575cbcc
+      internalID: -1459091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164e054368cc104bb93b4fd86439fbe
+      internalID: -1840661008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 132
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a55541b79a8d794eb6a43befecb5221
+      internalID: -1989884497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfccd5f18afa0a479a87dbd86381158
+      internalID: 1157824537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 93
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545852d95ae07147a2d57e62e568d8c
+      internalID: -111445675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a98756690ea36458ec515886eead4a
+      internalID: -1571821455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 93
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d81c7a8c3b5c4195e55274463aa2a
+      internalID: -588245990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 93
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa51f18f8d0283c43bc1434a66c7353b
+      internalID: -803749525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 93
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954bec2b42fc08847b4c2010a41b93ef
+      internalID: -158551144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e02ef513f4e82459210fbc7debd292
+      internalID: 432195584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbef2e2243b30141806677fff054418
+      internalID: -1946713695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 95
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808651f447421724e9d61c50ed293ca9
+      internalID: 1630480276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd847907b62d7e549844814e588f5a29
+      internalID: -534559220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 95
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f46087a0d0c3d4f8a248014269b4da
+      internalID: 1849824617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 95
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d85ed5a8dcaa3744b9d57c6123d940c
+      internalID: 989632784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d7766c20186d4abfda3e2877d0c9f
+      internalID: -440275504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16b435cb8ce434db33261b4f5b0ed9
+      internalID: 1248557382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4e9f9f2d5e71439275164e381b0d1
+      internalID: -913782498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4c56626d945f4790dae1e498997ca
+      internalID: 1978450646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4387a14ef87c5645b15ec75ab8cba70
+      internalID: -440650401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3cbfc73b80e24ebde5deddbf67fbc
+      internalID: 839695217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a9706bed3f5fa41a1495dcfed71a9f
+      internalID: 557265424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9a2417dcb21347b964c84ae69ee63
+      internalID: -1346894571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DementorModificado_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ef7ce5e135a2a448fb3a5538f89533
+      internalID: 96758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DementorModificado_spritesheet_0: -1893424941
+      DementorModificado_spritesheet_1: 306204641
+      DementorModificado_spritesheet_10: -293564343
+      DementorModificado_spritesheet_11: -1074038215
+      DementorModificado_spritesheet_12: -796661068
+      DementorModificado_spritesheet_13: -1254846450
+      DementorModificado_spritesheet_14: 690652304
+      DementorModificado_spritesheet_15: 162925808
+      DementorModificado_spritesheet_16: 1881766162
+      DementorModificado_spritesheet_17: -205209353
+      DementorModificado_spritesheet_18: 884292449
+      DementorModificado_spritesheet_19: -1459091600
+      DementorModificado_spritesheet_2: -1337071236
+      DementorModificado_spritesheet_20: -1840661008
+      DementorModificado_spritesheet_21: -1989884497
+      DementorModificado_spritesheet_22: 1157824537
+      DementorModificado_spritesheet_23: -111445675
+      DementorModificado_spritesheet_24: -1571821455
+      DementorModificado_spritesheet_25: -588245990
+      DementorModificado_spritesheet_26: -803749525
+      DementorModificado_spritesheet_27: -158551144
+      DementorModificado_spritesheet_28: 432195584
+      DementorModificado_spritesheet_29: -1946713695
+      DementorModificado_spritesheet_3: 174462093
+      DementorModificado_spritesheet_30: 1630480276
+      DementorModificado_spritesheet_31: -534559220
+      DementorModificado_spritesheet_32: 1849824617
+      DementorModificado_spritesheet_33: 989632784
+      DementorModificado_spritesheet_34: -440275504
+      DementorModificado_spritesheet_35: 1248557382
+      DementorModificado_spritesheet_36: -913782498
+      DementorModificado_spritesheet_37: 1978450646
+      DementorModificado_spritesheet_38: -440650401
+      DementorModificado_spritesheet_39: 839695217
+      DementorModificado_spritesheet_4: -123351446
+      DementorModificado_spritesheet_40: -1346894571
+      DementorModificado_spritesheet_41: 557265424
+      DementorModificado_spritesheet_42: 96758937
+      DementorModificado_spritesheet_43: -249845756
+      DementorModificado_spritesheet_5: -1535112021
+      DementorModificado_spritesheet_6: 1051636187
+      DementorModificado_spritesheet_7: 1547572652
+      DementorModificado_spritesheet_8: 592292334
+      DementorModificado_spritesheet_9: 1050750281
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
